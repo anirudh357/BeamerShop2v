@@ -1,7 +1,7 @@
 # BeamerShop 2.0 - An Amazon Clone
 
 ## Home Page view
-Using Reactjs, tailwindcss with hover effects
+Using Reactjs, tailwindcss with hover effects.
 
 <img width="1280" alt="2022-04-21" src="https://user-images.githubusercontent.com/76739126/164426633-6a66cca3-5f8a-4a88-b7f3-2c2be2242002.png">
 
